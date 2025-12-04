@@ -1,0 +1,8 @@
+storage/signatures/*
+storage/uploads/*
+storage/pdfs/*
+!storage/signatures/.gitkeep
+!storage/uploads/.gitkeep
+!storage/pdfs/.gitkeep
+vendor/
+.DS_Store
